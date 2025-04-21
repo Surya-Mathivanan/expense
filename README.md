@@ -27,6 +27,7 @@ https://myexpensetracker-psi.vercel.app/
 
 ## 🖥️ Demo
 Check out the live version here: [[Expense Tracker Live](https://myexpensetracker-psi.vercel.app/)]
+![Image](https://github.com/user-attachments/assets/e438ab9b-e67e-4bc5-acf2-2755aa1bd6b4)
 
 ## 📸 Preview
 
