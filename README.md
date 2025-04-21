@@ -78,12 +78,15 @@ npm run dev
 ## 🙌 Acknowledgements
 This project was built as a part of personal learning and practice to enhance frontend development skills.
 Thanks to the React and Vite communities for their amazing tools and documentation.
+```
+Replace `surya-mathivanan` in the GitHub URL with your actual GitHub username. Let me know if you need further customization!
+```
 
 ## 📬 Contact
 If you have any suggestions or feedback, feel free to connect with me:
 
 GitHub: Surya-Mathivanan
 
-Email: msuryamsurya2003@gmail.com
+Email: kit26.ad59@gmail.com
 
 
