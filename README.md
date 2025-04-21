@@ -10,11 +10,11 @@ A simple and efficient **Expense Tracker** web application to help you manage yo
 - Automatically update balance, income, and expenses
 - Delete any transaction easily
 - Fully responsive and clean UI
-- Built using HTML, CSS, and JavaScript (Vanilla JS)
+- Built using React JS
 
 ## 🖥️ Demo
 
-Check out the live version here: [Expense Tracker Live](#) *(Add link if deployed)*
+Check out the live version here: [[Expense Tracker Live](https://myexpensetracker-psi.vercel.app/)](#) *(Add link if deployed)*
 
 ## 📸 Preview
 
