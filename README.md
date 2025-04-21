@@ -1,16 +1,29 @@
 # 💸 Expense Tracker
 
-A simple and efficient **Expense Tracker** web application to help you manage your income and expenses. This tool lets users add and view their transactions while keeping a real-time balance update.
+MyExpenseTracker is a simple React-based expense tracking application that allows users to log in, add items, view their history, and manage their expenses effectively.
 
-# Online View:
+## Online View:
 https://myexpensetracker-psi.vercel.app/
 
-## 🚀 Features
+## Features
 
-- Add income or expense transactions
-- Automatically update balance, income, and expenses
-- Fully responsive and clean UI
-- Built using React JS
+- **User Authentication**: Login functionality to manage user sessions.
+- **Add Items**: Add expense items with details.
+- **View History**: View the history of added expense items.
+- **Logout**: Securely log out of the application.
+
+## Usage
+- Login: Enter your credentials to log in.
+- Choices Page: After logging in, navigate to add items or view history.
+- Add Items: Add expense details on the "Add Items" page.
+- View History: View all previously added expense items.
+- Logout: Click the logout button to securely log out.
+
+## Technologies Used
+- React: Frontend framework.
+- React Router: For routing and navigation.
+- Vite: Build tool for fast development.
+- CSS: For styling.
 
 ## 🖥️ Demo
 Check out the live version here: [[Expense Tracker Live](https://myexpensetracker-psi.vercel.app/)]
@@ -19,9 +32,6 @@ Check out the live version here: [[Expense Tracker Live](https://myexpensetracke
 
 ![Expense Tracker Preview](./screenshot.png) *(Add an actual screenshot file or link if available)*
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript
 
 ## 📁 Project Structure
 ```
@@ -60,10 +70,14 @@ expense-tracker/
 
 ```bash
 git clone https://github.com/Surya-Mathivanan/expense-tracker.git
+cd cd myexpense-tracker
+npm i
+npm run dev
 ```
 
 ## 🙌 Acknowledgements
 This project was built as a part of personal learning and practice to enhance frontend development skills.
+Thanks to the React and Vite communities for their amazing tools and documentation.
 
 ## 📬 Contact
 If you have any suggestions or feedback, feel free to connect with me:
